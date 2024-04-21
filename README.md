@@ -14,10 +14,6 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-## Watch tutorial
-
-- [Video link](https://youtu.be/IwGEDF17k1Y)
-
 ## Topics covered 
 
  - Introduction
